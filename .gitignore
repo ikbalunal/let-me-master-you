@@ -1,0 +1,14 @@
+# Credentials / Kimlik bilgileri
+.env
+
+# Personal course notes & scraped data / Kişisel ders notları ve çekilen veriler
+lectures/
+
+# Local Claude Code settings / Yerel Claude Code ayarları
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
